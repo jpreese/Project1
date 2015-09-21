@@ -1,0 +1,22 @@
+﻿.spacer{
+    margin-top: 50px;
+}
+
+img{
+    height: 25px;
+    width: 25px;
+    margin-left: 25px;
+}
+
+.navbar-inverse .navbar-brand{
+    color: #FFFFFF;
+}
+
+.navbar{
+    background-color: #8A0651;
+}
+
+.jumbotron{
+    background-color: #222222;
+    color: #FFFFFF;
+}
