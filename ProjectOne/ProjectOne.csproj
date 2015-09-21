@@ -124,6 +124,8 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Content Include="Global.asax" />
     <Content Include="StaticContent\book.png" />
+    <Content Include="StaticContent\greenstyle.css" />
+    <Content Include="StaticContent\purplestyle.css" />
     <Content Include="StaticContent\smile.png" />
     <Content Include="StaticContent\defaultstyle.css" />
     <Content Include="StaticContent\tv.png" />
