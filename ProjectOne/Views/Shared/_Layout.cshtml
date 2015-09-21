@@ -3,7 +3,13 @@
 <head>
     <title>@ViewBag.Title</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-    <link rel="stylesheet" href="~/StaticContent/style.css">
+    <link id="pagestyle" rel="stylesheet" href="~/StaticContent/defaultstyle.css">
+    <script type="text/javascript">
+        function swapStyle(fileName) {
+            var styleRoot = "/StaticContent/";
+            document.getElementById("pagestyle").setAttribute('href', styleRoot + fileName);
+        }
+    </script>
 </head>
 <body>
 
