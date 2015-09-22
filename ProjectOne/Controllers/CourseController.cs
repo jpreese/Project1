@@ -12,6 +12,5 @@ namespace ProjectOne.Controllers
         {
             return View();
         }
-
     }
 }
