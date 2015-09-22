@@ -126,9 +126,11 @@
     <Content Include="Global.asax" />
     <Content Include="StaticContent\book.png" />
     <Content Include="StaticContent\greenstyle.css" />
+    <Content Include="StaticContent\info.png" />
     <Content Include="StaticContent\purplestyle.css" />
     <Content Include="StaticContent\smile.png" />
     <Content Include="StaticContent\defaultstyle.css" />
+    <Content Include="StaticContent\topic.png" />
     <Content Include="StaticContent\tv.png" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
